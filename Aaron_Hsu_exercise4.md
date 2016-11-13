@@ -9,4 +9,4 @@
 | **名字**           | **github 帳號**       |
 | ------------------|:---------------------:|
 | 組員一: AaronHsu   |https://github.com/AaronCHH/ |
-| 組員二             |                       |
+| 組員二: LindaLee   |https://github.com/LeeChiuLan |
